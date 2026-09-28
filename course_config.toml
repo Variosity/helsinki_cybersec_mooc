@@ -1,0 +1,13 @@
+course = "mooc-securing-software-26"
+
+[exercises."part1-01.portscanner"]
+id = 320496
+checksum = "77f26efd3a38a8d54412b95c43e498af"
+
+[exercises."part1-02.helloweb"]
+id = 320497
+checksum = "01886d398cafe86b47c210d8c2873a3e"
+
+[exercises."part1-03.calculator"]
+id = 320498
+checksum = "df506b0df1add4d1ec3c462abc06e32c"
